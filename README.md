@@ -1,4 +1,4 @@
-GZHU grade 10 program design basic experiments personal backup.  
+GZHU grade 13 program design basic experiments personal backup.  
 ======
 This repository is created for personal backup.  
 Highly NOT recommand using codes in this repo to submit homework.  
